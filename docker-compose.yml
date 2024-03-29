@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  talker:
+    image: f23ed8e2532a
+    command: time4calls
